@@ -1,4 +1,4 @@
-package com.lucas.hexagonal.jsf;
+package com.lucas.hexagonal.iu;
 
 import com.lucas.hexagonal.Car;
 import com.lucas.hexagonal.CarSell;
