@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a771a209-7b21-4bed-b987-33e492b09eb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/CarAlteracaoVeicular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/CarSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/CarVistoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/Detran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/DriverLicense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/jsf/CarGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/jsf/CarManageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/jsf/CarResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lucas/hexagonal/jsf/package-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QsyUCkXDrv3ivAB48INv0F7HL3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Car" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Car" />
+      <module name="hexagonal-model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jsf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Car" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a771a209-7b21-4bed-b987-33e492b09eb4" name="Changes" comment="" />
+      <created>1686156597205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686156597205</updated>
+    </task>
+    <servers />
+  </component>
+</project>
